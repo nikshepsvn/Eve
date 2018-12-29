@@ -58,7 +58,7 @@ project-list:
         description: Lead generation platform that let's you aquire leads from LinkedIn based on multiple criteria.
         url: https://github.com/nikshepsvn/TumbleWeed
 
-project-list1:
+work-list:
     ScatterFly:
         name: ScatterFly
         description: An attempt to improve user privacy by intelligent data obfuscation.

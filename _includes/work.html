@@ -1,0 +1,11 @@
+<section class="list">
+    {% for work_hash in site.work-list %}
+    {% assign work = work_hash[1] %}
+        <div class="item">
+                <a class="url" href="{{ work.url }}">
+                    <h3 class="title">{{ work.name }}</h3>
+                </a>
+                <p class="description">{{ work.description }}</p>        
+        </div>
+    {% endfor %}
+</section>

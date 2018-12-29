@@ -71,7 +71,7 @@ work-list:
         url: https://www.pagerduty.com
     Magmic:
         name: Magmic (Backend Engineering Intern)
-        description: Worked on the main game server and a new faster authentication flow while improving the services resiliency agaisnt attacks and threats.
+        description: Worked on the main game server --- implemented a faster authentication flow and improved the servers resiliency agaisnt network attacks and threats.
         url: https://magmic.com
 
 

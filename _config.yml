@@ -58,6 +58,20 @@ project-list:
         description: Lead generation platform that let's you aquire leads from LinkedIn based on multiple criteria.
         url: https://github.com/nikshepsvn/TumbleWeed
 
+project-list1:
+    ScatterFly:
+        name: ScatterFly
+        description: An attempt to improve user privacy by intelligent data obfuscation.
+        url: https://github.com/nikshepsvn/ScatterFly
+    Giftory:
+        name: Giftory
+        description: Convert any piece of text into an entertaining GIF movie!
+        url: https://github.com/nikshepsvn/Giftory
+    TumbleWeed:
+        name: TumbleWeed
+        description: Lead generation platform that let's you aquire leads from LinkedIn based on multiple criteria.
+        url: https://github.com/nikshepsvn/TumbleWeed
+
 
 # do you want to display the theme attribution? true or false
 footer: false
